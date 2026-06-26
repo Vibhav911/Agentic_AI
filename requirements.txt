@@ -1,0 +1,50 @@
+ipykernel
+fastapi
+uvicorn
+bs4
+lxml
+pypdf
+sentence-transformers  # has models for embeddings
+pymupdf
+python-dotenv   # to import all variables from .env to jupyter notebook or .py file
+streamlit
+langserve[all]
+langchain
+langchain-community # to import all data from .community to jupyter
+langchain-text-splitters   # used to split text
+langchain-core
+langchain-openai
+langchain-ollama
+langchain-huggingface
+langchain-groq
+chromadb
+faiss-cpu   # Vector DataBases
+arxiv  # Arxiv is a site where research papers are stored for commercial purposes
+wikipedia  # Tool for Search
+duckduckgo-search
+postgres  # For working with PostgreSQL
+psycopg2-binary  # For working with PostgreSQL 
+validators  # Helps to validate the URL
+youtube-transcript-api
+pytube  # For Yt
+unstructured  # For Website
+numexpr  # Used in 8-Math for solving math problems
+langchain-huggingface  # Integration of Huggingface with Langchain
+huggingface-hub  # For Huggingface
+cassio  # Vector Database
+datasets
+openai
+tiktoken  
+PyPDF2
+gradio  # used in MultiLanguage Code Assistant
+boto3  # Helps to connect with all the services present in AWS
+awscli  # For AWS
+langgraph
+langsmith
+langchainhub
+neo4j
+langchain_neo4j  # for GraphDB
+lamini
+langgraph-cli
+
+

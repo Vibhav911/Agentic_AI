@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain_ollama
+langchain_groq
+langchain_huggingface
+faiss-cpu
+pypdf
+langchain-chroma
+chromadb==0.6.1
+
